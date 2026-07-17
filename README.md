@@ -10,7 +10,7 @@ Finishing an MSc in Computing / Software Engineering at Poznań University of Te
 
 **Selected work**
 - [Framework-for-generating-UI](https://github.com/StecuPM/Framework-for-generating-UI) - an experimental framework using generative AI to produce design-system-coherent, personalised dashboards. Built with an external industry partner; I was Product Owner. MIT licensed.
-- [PM_Prototype](https://github.com/StecuPM/PM_Prototype) - prototype with validation results
+- [PM_Prototype](https://github.com/StecuPM/PM_Prototype) - prototype with validation results for one of attended classes
 
 **Stack:** React · Vue · TypeScript · JavaScript · HTML/CSS/SASS · Firebase · Docker · Google Cloud Run · Python · SQL
 

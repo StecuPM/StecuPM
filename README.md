@@ -1,4 +1,4 @@
-## Marcin Stecewicz
+## Marcin Wincenty Stecewicz
 
 Frontend developer (React · TypeScript) and Product Owner, based in Poznań, Poland.
 Finishing an MSc in Computing / Software Engineering at Poznań University of Technology.

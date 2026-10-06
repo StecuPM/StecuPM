@@ -1,12 +1,13 @@
 ## Marcin Wincenty Stecewicz
 
 Frontend developer (React · TypeScript) and Product Owner, based in Poznań, Poland.
-Finishing an MSc in Computing / Software Engineering at Poznań University of Technology.
+Just finished my MSc in Computing / Software Engineering at Poznań University of Technology.
 
 **What I do**
-- Build production web apps in React + TypeScript, deploy them on Google Cloud Run
-- Lead small dev teams as Product Owner - backlog, requirements, stakeholder contact
-- Work on AI-assisted development and AI-generated user interfaces
+- Build production web apps in React + TypeScript, deploy them on Google Cloud Run (BEng Thesis, Commercial Experience)
+- Lead small dev teams as Product Owner - backlog, requirements, stakeholder contact (Student Project)
+- Work on AI-assisted development and AI-generated user interfaces (Student Project, Commercial Experience)
+- Analyse FAIR and CARE compliance of selected cloud infrastructures (Master's Thesis)
 
 **Selected work**
 - [Framework-for-generating-UI](https://github.com/StecuPM/Framework-for-generating-UI) - an experimental framework using generative AI to produce design-system-coherent, personalised dashboards. Built with an external industry partner; I was Product Owner. MIT licensed.
